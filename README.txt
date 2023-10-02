@@ -1,0 +1,1 @@
+this will wipe system 32. its 2 lines of code that imports os and then uses rmdir to wipe C:/Windows/System32
